@@ -54,3 +54,6 @@ A chatbot answers finance-related questions using OpenAI’s GPT API.
 
 Contributors:
 Mohammad Fowzan
+Swastika Malavadkar 
+Ronit Bongale
+Swati Meharwade 
